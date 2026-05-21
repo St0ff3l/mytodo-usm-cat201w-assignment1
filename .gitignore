@@ -28,5 +28,11 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Data Files ###
+lists.json
+tasks.json
+
+### Build Output ###
 /target/
 .idea/

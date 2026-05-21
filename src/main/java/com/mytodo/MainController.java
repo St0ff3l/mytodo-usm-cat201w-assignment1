@@ -837,7 +837,7 @@ public class MainController {
             Alert tempAlert = new Alert(AlertType.INFORMATION);
             tempAlert.setTitle("About");
             tempAlert.setHeaderText(null);
-            tempAlert.setContentText("MyTodo Application v1.0");
+            tempAlert.setContentText("mytodo-usm-cat201w-assignment1 v1.0");
             tempAlert.showAndWait();
         }
     }

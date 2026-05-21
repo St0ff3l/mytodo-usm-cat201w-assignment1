@@ -20,7 +20,7 @@ public class Main extends Application {
         scene.getStylesheets().add(getClass().getResource("Main.css").toExternalForm());
 
         // Window title
-        stage.setTitle("MyTodo");
+        stage.setTitle("mytodo-usm-cat201w-assignment1");
         stage.setScene(scene);
         stage.show();
 

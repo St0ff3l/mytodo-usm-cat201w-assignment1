@@ -34,7 +34,7 @@ public class AboutDialogController {
             );
 
             Stage aboutStage = new Stage();
-            aboutStage.setTitle("About MyTodo App");
+            aboutStage.setTitle("About mytodo-usm-cat201w-assignment1");
             aboutStage.setScene(new Scene(aboutPane));
             aboutStage.initOwner(owner);
             aboutStage.initModality(Modality.APPLICATION_MODAL);
